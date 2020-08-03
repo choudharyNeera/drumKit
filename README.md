@@ -16,9 +16,9 @@ A step by step series of examples that tell you how to get a development env run
 
 4) Once the repo is cloned, you need to do two things:
 
-   i) Create a new branch by issuing the command: git checkout -b new_branch <br /> 
+       i) Create a new branch by issuing the command: git checkout -b new_branch <br /> 
 
-   ii) Create a new remote for the upstream repo with the command: git remote add upstream https://github.com/choudharyNeera/drumKit.git <br />
+       ii) Create a new remote for the upstream repo with the command: git remote add upstream https://github.com/choudharyNeera/drumKit.git <br />
 In this case, "upstream repo" refers to the original repo you created your fork from.
 
 Now you can make changes to the code. The following code creates a new branch, Now you are ready to make changes, and pushes it to new_branch.
